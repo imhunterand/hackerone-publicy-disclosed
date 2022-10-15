@@ -1,5 +1,6 @@
 # hackerone-publicy-disclosed
 hackerone one million reports
+```
 https://hackerone.com/reports/120 |  Missing SPF for hackerone.com
 https://hackerone.com/reports/280 |  Real impersonation
 https://hackerone.com/reports/284 |  Broken Authentication and session management OWASP A2
@@ -3522,3 +3523,4 @@ https://hackerone.com/reports/999789 |  Getting New Invitations without Leaving 
 https://hackerone.com/reports/1000567 |  ReDoS at wiki.cs.money graphQL endpoint (AND probably a kind of command injection)
 https://hackerone.com/reports/1001255 |  Possible RCE through Windows Custom Protocol on Windows client
 https://hackerone.com/reports/1002188 |  Potential HTTP Request Smuggling in nodejs
+```
